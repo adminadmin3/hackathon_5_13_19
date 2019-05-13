@@ -9,7 +9,7 @@ Rubric https://imgur.com/dyVTY5F
 Most core cryptographic primitives such as RSA or AES relie on probabalistic guarantees for security. How might propabalistic guarantees be enforced in smart contracts to achieve desirable properties?
 
 **Identity Systems**
-Recent advances in crypto mean that anyone can become their own certificate authority and issue ids with better security than state ids. How might smart contracts / blockchain facilitate new identity systems?c
+Recent advances in crypto mean that anyone can become their own identity authority and issue ids with better security than state ids. How might smart contracts / blockchain facilitate new identity systems?c
 
 **Political Action DAO**
 Novel mechanisms for coordinated activism are now possible on the blockchain. How might a smart contract / blockchain aided political action commitee might look?
