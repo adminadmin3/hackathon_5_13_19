@@ -1,8 +1,6 @@
 Please push to individual/team branch to repo:
 https://github.com/adminadmin3/hackathon_5_13_19.git
 
-End of day project will be discussed and judged based on showcase of implementation
-
 Rubric https://imgur.com/dyVTY5F
 
 # Themes
@@ -25,7 +23,7 @@ Possible ideas
 
 Resources:
 - "Zero-knowledge proofs of identity"
-https://www.researchgate.net/publication/225604161_Zero-knowledge_proofs_of_identity
+	https://www.researchgate.net/publication/225604161_Zero-knowledge_proofs_of_identity
 - "How to Leak a secret"
         https://www.iacr.org/archive/asiacrypt2001/22480554.pdf
 - "Confidential Transactions"
@@ -36,4 +34,4 @@ Zap platform may optionally be used to facilitate oracle development for Ethereu
 [Zap Docs](zap.tech) 
 Propublica Oracle example
 https://github.com/zapproject/zap-oracle-template/tree/propublica
-
+https://zap.org
